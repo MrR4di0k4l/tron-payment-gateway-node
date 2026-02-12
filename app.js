@@ -18,7 +18,7 @@ const ORDER_TIMEOUT_MINUTES = 7; // Duration the wallet remains reserved for the
 
 // TronGrid API Key (replace if you have one, otherwise leave empty)
 // Get it for free at: https://www.trongrid.io/dashboard
-const TRON_API_KEY = '5a77e386-93c6-4cfe-b02e-b9667b557462'; 
+const TRON_API_KEY = 'TRON_API_KEY'; 
 
 // Connect to the Mainnet
 const tronWeb = new TronWeb({
