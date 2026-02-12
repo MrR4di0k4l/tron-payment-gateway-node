@@ -65,7 +65,7 @@ docker-compose up -d --build
 
 * **مثال:**
 ```
-http://localhost:3000/newAddress?notifyurl=[https://mysite.com/callback&collect_address=TZ...&extra=order123](https://mysite.com/callback&collect_address=TZ...&extra=order123)
+http://localhost:3000/newAddress?notifyurl=https://mysite.com/callback&collect_address=TZ...&extra=order123
 
 ```
 
