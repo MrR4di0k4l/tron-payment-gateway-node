@@ -6,7 +6,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[**<a href="https://github.com/MrR4di0k4l/tron-payment-gateway-node/blob/main/README.md">English</a>**] | [**<a href="https://github.com/MrR4di0k4l/tron-payment-gateway-node/README_FA.md">**]
+[**<a href="https://github.com/MrR4di0k4l/tron-payment-gateway-node/blob/main/README.md">English</a>**] | [**<a href="https://github.com/MrR4di0k4l/tron-payment-gateway-node/blob/main/README_FA.md">Persion</a>**]
 
 ---
 
