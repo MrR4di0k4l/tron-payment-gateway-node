@@ -65,7 +65,7 @@ Assigns a wallet from the pool to a user. If a free wallet exists, it reuses it;
 
 * **Example:**
 ```
-http://localhost:3000/newAddress?notifyurl=[https://mysite.com/callback&collect_address=TZ...&extra=order123](https://mysite.com/callback&collect_address=TZ...&extra=order123)
+http://localhost:3000/newAddress?notifyurl=https://mysite.com/callback&collect_address=TZ...&extra=order123
 
 ```
 
