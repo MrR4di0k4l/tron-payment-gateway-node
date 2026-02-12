@@ -1,4 +1,13 @@
+# سرویس درگاه پرداخت ترون (TRX)
+> درگاه پرداخت شخصی ترون با قابلیت چرخش کیف پول، تجمیع خودکار و داکر.
 
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+[**<a href="https://github.com/MrR4di0k4l/tron-payment-gateway-node/blob/main/README.md">اتگلیسی</a>**] | [**<a href="https://github.com/MrR4di0k4l/tron-payment-gateway-node/blob/main/README_FA.md">فارسی</a>**]
+
+---
 ## مستندات فارسی
 
 ### 🌟 ویژگی‌ها
