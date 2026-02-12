@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  trx-gateway:
+    build: .
+    container_name: trx_payment_service
+    restart: always
+    ports:
+      - "3000:80"  # Port 3000 of your server connects to port 80 of the container
+    volumes:
+      # Database mapping to prevent data deletion
+      - ./data:/app/data
+      # (Optional) Enable the following line if you want to change the public folder without rebuilding
+      # - ./public:/app/public
